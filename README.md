@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍🎓 Pursuing MBA from **IGNOU**, after topping **B.Tech (IT)** with 9.5 CGPA  
 - 💼 Ex-**Assistant Manager at Jio Platforms**, built tools that improved onboarding by 75%  
-- 🛍️ **Founder at [Veer Traders](https://veertraders.com)** — A bootstrapped toy wholesale e-commerce business  
+- 🛍️ **Project Lead at [Veer Traders](https://veertraders.com)** — A bootstrapped toy wholesale e-commerce business  
 - 💻 Passionate about frontend dev (React, Next.js) & backend integrations (Google Sheets API, Firebase)  
 - 📈 Building expertise in **FMCG supply chain**, **order fulfillment**, and **quick commerce** ops  
 - 🎯 Long-term goal: **launch superfoods globally** via digital commerce
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<!--   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> -->
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -61,7 +61,6 @@ You can click the Preview link to take a look at your changes.
 | 🛠️ Project | 🔍 Description | 🌐 Tech |
 |-----------|----------------|--------|
 | [Veer Traders](https://veertraders.com) | Full-stack toy ecommerce with live inventory sync, analytics & delivery | React, Sheets API, GTM |
-| [Java Notepad](https://github.com/aakashjain294/Java-Notepad) | Swing-based desktop notepad clone | Java |
 | [Portfolio Website](https://portfolio-roan-five.vercel.app) | Personal brand site built on Next.js + MUI | Next.js, MUI, Vercel |
 | [Fitness Web App](#) | Smart India Hackathon finalist entry | Next.js, Firebase, Tailwind |
 
@@ -103,9 +102,6 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://github.com/aakashjain294">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://veertraders.com">
-    <img src="https://img.shields.io/badge/VeerTraders.com-00bfff?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </p>
 
@@ -149,9 +145,6 @@ You can click the Preview link to take a look at your changes.
 - 🌐 [Veer Traders – Toy Wholesale Website](https://veertraders.com)  
   `Built with ReactJS + Google Sheets API | SEO + Analytics + GTM enabled`
 
-- 📁 [Java Notepad](https://github.com/aakashjain294/Java-Notepad)  
-  `Simple Java Swing-based Notepad clone with all editor features`
-
 - 💻 [Hacktoberfest Contributions](https://github.com/aakashjain294/Hacktoberfest2021)  
   `Open-source submissions as part of Hacktoberfest`
 
@@ -164,6 +157,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:itsaakashjain119@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href = "tel:+919625783388">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/itsaakashjain119/">
