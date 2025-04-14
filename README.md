@@ -159,9 +159,9 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:itsaakashjain119@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href = "tel:+919625783388">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="tel:+919625783388">
+  <img src="https://img.shields.io/badge/Call-%23007bff?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
   <a href="https://leetcode.com/u/itsaakashjain119/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
