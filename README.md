@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Tech-Enabled MBA | Web Developer | E-Commerce Ops | Ex-Jio | Project Lead At Veer Traders</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MBA+student+%7C+B.Tech+in+IT;Web+Developer+%7C+React+%7C+Next.js;Project Lead+of+Veer+Traders+%7C+Quick+Commerce+Dreamer;Ex-Jio+Assistant+Manager;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MBA+student+%7C+B.Tech+in+IT;Web+Developer+%7C+React+%7C+Next.js;Project+Lead+of+Veer+Traders+%7C+Quick+Commerce+Dreamer;Ex-Jio+Assistant+Manager;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
